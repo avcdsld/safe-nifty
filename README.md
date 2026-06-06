@@ -1,1 +1,1 @@
-# safety-nft
+# Safe Nifty
